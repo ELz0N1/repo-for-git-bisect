@@ -1,3 +1,3 @@
-print("WhaW  111  22ld!")
+print("WhaW  цыы111  22ld!")
 exit(1)
 
