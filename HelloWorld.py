@@ -1,3 +1,3 @@
-print("What'sW    ld!")
+print("WhaW    ld!")
 exit(1)
 
