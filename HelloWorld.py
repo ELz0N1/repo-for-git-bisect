@@ -1,3 +1,3 @@
-print("Wassup, World!")
+print("What's up, World!")
 exit(0)
 
